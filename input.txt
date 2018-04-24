@@ -1,0 +1,31 @@
+The quick brown fox ran over a lazy dog.
+Hope I ever get to meet her again.
+She is the love of my life.
+Wait till it gets over. 
+You had once chance 
+I will not regret this.
+These are just alphabets.
+In the next test case i will include other examples as well.
+I have been reading books of old 
+Somebody that I used to know
+When the days are over
+I would like this 
+transcript to have about 
+a thousand characters 
+That's why I am adding these line in between 
+I am certain that the algorithm will perform poorely
+in such a small set of characters
+But I have to keep on adding 
+characters until I am done 
+with thousand of them
+Is it done yet
+Fourty seven more to go 
+so this is it almost over
+I heard that your dream came true.
+Now I will write just random words out of dictionary.
+We should win this match easily.
+I should write more common words.
+I don't know if it will take care of the newline character.
+But this is it
+The next sentence is going to be the last sentence.
+This is the last sentence.
